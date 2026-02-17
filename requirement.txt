@@ -1,0 +1,4 @@
+textblob
+uvicorn
+fast api
+pydantic
