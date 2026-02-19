@@ -1,4 +1,5 @@
 textblob
 uvicorn
 fastapi
+pydantic[email]
 pydantic
