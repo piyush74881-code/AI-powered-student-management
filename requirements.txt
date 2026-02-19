@@ -1,4 +1,4 @@
 textblob
 uvicorn
-fast api
+fastapi
 pydantic
